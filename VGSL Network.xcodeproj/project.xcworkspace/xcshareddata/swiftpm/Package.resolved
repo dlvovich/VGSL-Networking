@@ -1,0 +1,15 @@
+{
+  "originHash" : "e9cb5d22a283e16332ebee9737b28c1b3cff775f2dd707e91381ea14723263ce",
+  "pins" : [
+    {
+      "identity" : "vgsl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yandex/vgsl.git",
+      "state" : {
+        "revision" : "4027f699f1bd403951f3178bb5af81b7b5e014f4",
+        "version" : "7.15.1"
+      }
+    }
+  ],
+  "version" : 3
+}
